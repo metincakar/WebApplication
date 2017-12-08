@@ -1,0 +1,10 @@
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\bin\Debug\netcoreapp1.1\WebApp.Entities.deps.json
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\bin\Debug\netcoreapp1.1\WebApp.Entities.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\bin\Debug\netcoreapp1.1\WebApp.Entities.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\bin\Debug\netcoreapp1.1\WebApp.Core.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\bin\Debug\netcoreapp1.1\WebApp.Core.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\obj\Debug\netcoreapp1.1\WebApp.Entities.csprojResolveAssemblyReference.cache
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\obj\Debug\netcoreapp1.1\WebApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\obj\Debug\netcoreapp1.1\WebApp.Entities.AssemblyInfo.cs
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\obj\Debug\netcoreapp1.1\WebApp.Entities.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Entities\obj\Debug\netcoreapp1.1\WebApp.Entities.pdb

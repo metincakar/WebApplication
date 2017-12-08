@@ -1,0 +1,12 @@
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.DataAccess.deps.json
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.Core.dll
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.Entities.dll
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\obj\Debug\netcoreapp1.1\WebApp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\obj\Debug\netcoreapp1.1\WebApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\obj\Debug\netcoreapp1.1\WebApp.DataAccess.AssemblyInfo.cs
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.DataAccess.dll
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.DataAccess.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.Core.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\bin\Debug\netcoreapp1.1\WebApp.Entities.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\obj\Debug\netcoreapp1.1\WebApp.DataAccess.dll
+C:\Users\metin\source\repos\WebApp\WebApp.DataAccess\obj\Debug\netcoreapp1.1\WebApp.DataAccess.pdb

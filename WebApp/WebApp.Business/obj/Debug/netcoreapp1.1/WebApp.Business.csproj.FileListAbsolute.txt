@@ -1,0 +1,14 @@
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Business.deps.json
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Business.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Business.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Core.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.DataAccess.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Entities.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.DataAccess.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Entities.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.Business\bin\Debug\netcoreapp1.1\WebApp.Core.pdb
+C:\Users\metin\source\repos\WebApp\WebApp.Business\obj\Debug\netcoreapp1.1\WebApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\metin\source\repos\WebApp\WebApp.Business\obj\Debug\netcoreapp1.1\WebApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\metin\source\repos\WebApp\WebApp.Business\obj\Debug\netcoreapp1.1\WebApp.Business.AssemblyInfo.cs
+C:\Users\metin\source\repos\WebApp\WebApp.Business\obj\Debug\netcoreapp1.1\WebApp.Business.dll
+C:\Users\metin\source\repos\WebApp\WebApp.Business\obj\Debug\netcoreapp1.1\WebApp.Business.pdb
